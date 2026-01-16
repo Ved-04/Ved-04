@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Vedang+Urade)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Vedang+Urade)
 
 ###### Glad to see you here ❤️
 
@@ -10,11 +10,6 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
-
-- 🏢 Software Engineer at Microsoft  
-- 🏫 B.Tech Graduate (2022) from NIT Karnataka  
-- 💻 Former SDE Intern at Qualcomm, India  
-- 🙋‍ More about me: Visit my [website](https://shumbul.github.io/)  
-- 🖇 Connect with me on [LinkedIn](https://linkedin.com/in/shumbul)  
-- 👯 Pronouns: She/Her
+- UnderGraduate at VIT Vellore 
+- 🏫 B.Tech Graduate (2026) from VIT Vellore 
+- 👯 Pronouns: He
