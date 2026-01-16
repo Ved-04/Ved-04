@@ -1,12 +1,10 @@
 ### Hey there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Vedang+Urade)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Vedang+Urade)
 
 ###### Glad to see you here ❤️
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shumbul&label=Views&color=blue&style=plastic" alt="shumbul" />
-</p>
+
 
 <br/>
 
